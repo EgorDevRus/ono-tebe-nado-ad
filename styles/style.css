@@ -27,6 +27,10 @@
   text-decoration: none;
   font-size: 18px;
   letter-spacing: 0.01em;
+  text-decoration: underline;
+}
+.header__links_active {
+    text-decoration: none;
 }
 
 
@@ -186,9 +190,7 @@
   font-size: 22px;
   text-decoration: underline;
   text-transform: uppercase;
-  width: 254px;
-  height: 110px;
-  margin: 48 0 0 40;
+  margin: 0;
   line-height: 1.2;
 }
 
@@ -274,7 +276,6 @@
 }
 
 .footer__menu-link {
-  text-decoration: none;
   font-size: 18px;
   text-decoration: underline;  
 }
